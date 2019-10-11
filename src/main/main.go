@@ -1,10 +1,10 @@
 package main
 
 import (
-	"bqb/src/utils"
 	"bytes"
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
+	"go-emotion/src/utils"
 	"io"
 	"io/ioutil"
 	"net/http"

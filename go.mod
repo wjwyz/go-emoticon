@@ -1,4 +1,4 @@
-module bqb
+module go-emotion
 
 go 1.13
 
