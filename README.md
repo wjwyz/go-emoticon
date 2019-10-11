@@ -20,6 +20,6 @@ golang高性能爬虫,爬取表情包网站方便和小伙伴斗图
 * 等待爬取完成
 * 然后就可以愉快的去和小伙伴斗图啦～
 
-![深度截图_选择区域_20191011150026.png](http://ww1.sinaimg.cn/mw690/0071vCrCgy1g7u9tn12pxj30eo041glr.jpg)
-![深度截图_dde-desktop_20191011150057.png](http://ww1.sinaimg.cn/mw690/0071vCrCgy1g7u9tzkhq4j30q40go7b2.jpg)
+![深度截图_选择区域_20191011150026.png](http://ww1.sinaimg.cn/mw690/0071vCrCgy1g7u9wot6o5j30eo041glr.jpg)
+![深度截图_dde-desktop_20191011150057.png](http://ww1.sinaimg.cn/mw690/0071vCrCgy1g7u9wyav24j30q40go7b2.jpg)
 
